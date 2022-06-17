@@ -18,7 +18,7 @@ import utils.folder as folder
 #                                  Variables                                   #    
 ################################################################################
 
-DATA                        =  f"{file.parents[2]}/MNHN_RESULT/1_DATA_mini"      # chemin du dossier des données à créer en amont
+DATA                        =  f"{file.parents[2]}/MNHN_RESULT/1_DATA_mini"      # dossier_des sorties_de_code/dossier_sortie_du_traitement
 
 list_standard_aa            = ["A", "R", "N", "D", "C", "Q", "E", "G", "H", "I", 
                                "L", "K", "M", "F", "P", "S", "T", "W", "Y", "V"]
